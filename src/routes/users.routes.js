@@ -52,9 +52,7 @@ router.get("/users", getAllUsers);
  *     produces:
  *       - application/json
  *     parameters:
- *       - $ref: '#/parameters/name'
- *       - $ref: '#/parameters/age'
- *       - $ref: '#/parameters/email'
+ *       - $ref: '#/parameters/data'
  *     responses:
  *       200:
  *         description: user

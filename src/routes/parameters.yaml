@@ -1,19 +1,17 @@
 parameters:
-  name:
-    name: name
+  data:
+    name: data
     description: Name of of the user.
     in: body
     required: true
-    type: string
-  age:
-    name: age
-    description: Age of the user.
-    in: body
-    required: true
-    type: integer
-  email:
-    name: email
-    description: email of the user.
-    in: body
-    required: true
-    type: string
+    type: object
+    properties:
+      name:
+        type: string
+        example: ayo
+      email:
+        type: string
+        example: yomionisade@gmail.com
+      age:
+        type: number
+        example: 20
