@@ -1,5 +1,5 @@
 {
-  "name": "code_challenge",
+  "name": "chimoney_code_challenge",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -18,5 +18,8 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }
