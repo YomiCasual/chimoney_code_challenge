@@ -5,6 +5,10 @@ This app was bootstrapped with \
 [Swagger JsDoc](https://www.npmjs.com/package/express) \
 [Swagger UI Express](https://www.npmjs.com/package/swagger-ui-express) \
 
+## Installation Scripts
+
+Go to the root directory and run yarn in your terminal
+
 ## Available Scripts
 
 In the project directory, you can run:
