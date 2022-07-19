@@ -25,6 +25,7 @@ const swaggerDefinition = {
     version: "1.0.0",
   },
   host: `chimoney-code-challenge-api.herokuapp.com/`,
+  scheme: ["https"],
 };
 
 const options = {
