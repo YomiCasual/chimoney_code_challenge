@@ -1,9 +1,9 @@
 # Getting Started with Chimoney Api Challenge
 
 This app was bootstrapped with \
-Express
-Swagger JsDo
-Swagger UI Express
+[Express](https://www.npmjs.com/package/express) \
+[Swagger JsDoc](https://www.npmjs.com/package/express) \
+[Swagger UI Express](https://www.npmjs.com/package/swagger-ui-express) \
 
 ## Available Scripts
 
