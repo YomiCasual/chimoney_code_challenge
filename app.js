@@ -24,7 +24,7 @@ const swaggerDefinition = {
     title: "Users API",
     version: "1.0.0",
   },
-  host: `localhost:${PORT}`,
+  host: `chimoney-code-challenge-api.herokuapp.com/`,
 };
 
 const options = {
