@@ -1,7 +1,7 @@
 parameters:
   data:
     name: data
-    description: Name of of the user.
+    description: User data for creating.
     in: body
     required: true
     type: object
